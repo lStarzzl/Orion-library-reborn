@@ -3,7 +3,7 @@ This documentation is for the stable release of Orion Library.
 
 ## Booting the Library
 ```lua
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/CorgiSideExploits/OrionLib/refs/heads/main/Corgiside%20Prison%20Life')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/lStarzzl/Orion-library-reborn/refs/heads/main/Source')))()
 ```
 
 
